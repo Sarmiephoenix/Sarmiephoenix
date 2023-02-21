@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sarmiephoenix
-- 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on AI
+- 👋 Hi, I’m @Sarmie
+- 👀 I’m interested in Web development 
+- 🌱 I’m currently learning Javascript 
+- 💞️ I’m looking to collaborate on wordpress development
 - 📫 How to reach me- talktosarmie@gmail.com
 
 <!---
